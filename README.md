@@ -20,7 +20,6 @@
   <li>GoogleMapView</li>
   <li>Gradient_Background</li>
   <li>GradientColor</li>
-  <li>HomeCard</li>
   <li>HyperlinkText</li>
   <li>ImagePopUp</li>
   <li>ImageView</li>
