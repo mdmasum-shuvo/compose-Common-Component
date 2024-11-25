@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Compose Common Ui</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="dummy_text">Dummy Text</string>
+    <string name="no_data_title">title\n</string>
+    <string name="no_data_des">description</string>
+    <string name="home">Home</string>
+
+</resources>

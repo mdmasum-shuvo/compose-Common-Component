@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.ComposeCommonUi" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="DialogTheme" parent="Theme.AppCompat.Light.Dialog">
+        <item name="colorAccent">@color/purple_200</item>
+        <item name="android:colorPrimary">@color/purple_200</item>
+        <item name="android:colorPrimaryDark">@color/purple_200</item>
+        <item name="android:colorAccent">@color/purple_200</item>
+    </style>
+</resources>
